@@ -1,6 +1,6 @@
 # nvim
 
-my nvim config file. stolen from https://github.com/KevinPalowa/nvim
+my nvim config file. 
 
 ## Setup
 - OS: [Ubuntu 22.04.3 LTS on Windows 10 x86_64]
